@@ -1,0 +1,15 @@
+"F:\IARR\arm\bin\armproc.dll" 
+
+"F:\IARR\arm\bin\armjlink2.dll" 
+
+"E:\四月份\比赛程序\KEA128\Projecct\IAR\program\Debug\Exe\KEA128.out" 
+
+--plugin "F:\IARR\arm\bin\armbat.dll" 
+
+--device_macro "F:\IARR\arm\config\debugger\NXP\KExx.dmac" 
+
+--flash_loader "F:\IARR\arm\config\flashloader\NXP\FlashKE04Z128_4.board" 
+
+
+
+
