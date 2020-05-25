@@ -8,7 +8,7 @@
 硬件：KEAZ128单片机
 
 #### 成长回顾
-从分区预决赛到全国总决赛全部一次发车成功
+从分区预决赛到全国总决赛
 [成长回顾](http://m.v.qq.com/play/play.html?vid=a0776qapbpz&url_from=share&second_share=0&share_from=copy "ALUS")
 
 #### 作者列表
